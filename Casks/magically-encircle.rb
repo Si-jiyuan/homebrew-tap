@@ -1,5 +1,5 @@
 cask "magically-encircle" do
-  version "1.0"
+  version "1.1"
   sha256 :no_check
 
   url "https://github.com/Si-jiyuan/magicallyEncircle/releases/download/v#{version}/magicallyEncircle.dmg",
